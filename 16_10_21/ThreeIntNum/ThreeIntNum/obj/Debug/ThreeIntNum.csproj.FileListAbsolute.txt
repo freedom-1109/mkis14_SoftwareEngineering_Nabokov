@@ -1,0 +1,6 @@
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\16_10_21\ThreeIntNum\ThreeIntNum\bin\Debug\ThreeIntNum.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\16_10_21\ThreeIntNum\ThreeIntNum\bin\Debug\ThreeIntNum.pdb
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\16_10_21\ThreeIntNum\ThreeIntNum\obj\Debug\ThreeIntNum.csproj.AssemblyReference.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\16_10_21\ThreeIntNum\ThreeIntNum\obj\Debug\ThreeIntNum.csproj.CoreCompileInputs.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\16_10_21\ThreeIntNum\ThreeIntNum\obj\Debug\ThreeIntNum.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\16_10_21\ThreeIntNum\ThreeIntNum\obj\Debug\ThreeIntNum.pdb
