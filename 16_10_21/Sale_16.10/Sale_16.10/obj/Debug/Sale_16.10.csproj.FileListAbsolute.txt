@@ -1,0 +1,6 @@
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\Sale_16.10\Sale_16.10\bin\Debug\Sale_16._10.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\Sale_16.10\Sale_16.10\bin\Debug\Sale_16._10.pdb
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\Sale_16.10\Sale_16.10\obj\Debug\Sale_16.10.csproj.AssemblyReference.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\Sale_16.10\Sale_16.10\obj\Debug\Sale_16.10.csproj.CoreCompileInputs.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\Sale_16.10\Sale_16.10\obj\Debug\Sale_16._10.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\Sale_16.10\Sale_16.10\obj\Debug\Sale_16._10.pdb
