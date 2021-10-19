@@ -1,0 +1,6 @@
+C:\Users\nnabo\Downloads\programs\c#\Week\Week\bin\Debug\Week.exe
+C:\Users\nnabo\Downloads\programs\c#\Week\Week\bin\Debug\Week.pdb
+C:\Users\nnabo\Downloads\programs\c#\Week\Week\obj\Debug\Week.csproj.AssemblyReference.cache
+C:\Users\nnabo\Downloads\programs\c#\Week\Week\obj\Debug\Week.csproj.CoreCompileInputs.cache
+C:\Users\nnabo\Downloads\programs\c#\Week\Week\obj\Debug\Week.exe
+C:\Users\nnabo\Downloads\programs\c#\Week\Week\obj\Debug\Week.pdb
