@@ -4,3 +4,9 @@ C:\Users\nnabo\Downloads\programs\c#\Week\Week\obj\Debug\Week.csproj.AssemblyRef
 C:\Users\nnabo\Downloads\programs\c#\Week\Week\obj\Debug\Week.csproj.CoreCompileInputs.cache
 C:\Users\nnabo\Downloads\programs\c#\Week\Week\obj\Debug\Week.exe
 C:\Users\nnabo\Downloads\programs\c#\Week\Week\obj\Debug\Week.pdb
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\16_10_21\Week\Week\bin\Debug\Week.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\16_10_21\Week\Week\bin\Debug\Week.pdb
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\16_10_21\Week\Week\obj\Debug\Week.csproj.AssemblyReference.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\16_10_21\Week\Week\obj\Debug\Week.csproj.CoreCompileInputs.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\16_10_21\Week\Week\obj\Debug\Week.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\16_10_21\Week\Week\obj\Debug\Week.pdb
