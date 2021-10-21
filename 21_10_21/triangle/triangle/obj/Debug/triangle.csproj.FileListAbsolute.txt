@@ -4,3 +4,9 @@ C:\Users\freedom\Documents\Downloads\Новая папка\triangle\triangle\obj
 C:\Users\freedom\Documents\Downloads\Новая папка\triangle\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
 C:\Users\freedom\Documents\Downloads\Новая папка\triangle\triangle\obj\Debug\triangle.exe
 C:\Users\freedom\Documents\Downloads\Новая папка\triangle\triangle\obj\Debug\triangle.pdb
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\triangle\triangle\bin\Debug\triangle.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\triangle\triangle\bin\Debug\triangle.pdb
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\triangle\triangle\obj\Debug\triangle.csproj.AssemblyReference.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\triangle\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\triangle\triangle\obj\Debug\triangle.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\triangle\triangle\obj\Debug\triangle.pdb
