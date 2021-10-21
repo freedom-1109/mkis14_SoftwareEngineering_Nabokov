@@ -4,20 +4,21 @@ namespace sump
 {
     internal class Program
     {
+        /*
+         * Найти сумму первых N членов арифметической прогрессии с использованием цикла for
+         */
         public static void Main()
         {
-            try
+            
+            var x = 0;
+            int N;
+            while (!int.TryParse(Console.ReadLine(),out N))
             {
-                var x = 0;
-                var N = Convert.ToInt32(Console.ReadLine());
-                for (var i = 1; i <= N; i++)
-                    x += i;
-                Console.WriteLine(x);
+                Console.WriteLine("Не число, попробуйте еще раз");
             }
-            catch (Exception e)
-            {
-                Console.WriteLine("Ты чо, пес!");
-            }
+            for (var i = 1; i <= N; i++)
+                x += i;
+            Console.WriteLine(x);
         }
     }
 }
