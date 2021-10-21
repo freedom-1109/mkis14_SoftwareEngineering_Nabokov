@@ -4,3 +4,9 @@ C:\Users\freedom\Documents\Downloads\Новая папка\pares\pares\obj\Debug
 C:\Users\freedom\Documents\Downloads\Новая папка\pares\pares\obj\Debug\pares.csproj.CoreCompileInputs.cache
 C:\Users\freedom\Documents\Downloads\Новая папка\pares\pares\obj\Debug\pares.exe
 C:\Users\freedom\Documents\Downloads\Новая папка\pares\pares\obj\Debug\pares.pdb
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\pares\pares\bin\Debug\pares.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\pares\pares\bin\Debug\pares.pdb
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\pares\pares\obj\Debug\pares.csproj.AssemblyReference.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\pares\pares\obj\Debug\pares.csproj.CoreCompileInputs.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\pares\pares\obj\Debug\pares.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\pares\pares\obj\Debug\pares.pdb

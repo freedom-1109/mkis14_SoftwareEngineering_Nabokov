@@ -12,11 +12,9 @@ namespace pares
             {
                 for (var j = i - 1; j > 0; j--)
                 {
-                    if ((i + j) % 10 == 0)
-                    {
-                        count += 2;
-                        sumcount += 10;
-                    }
+                    if ((i + j) % 10 != 0) continue;
+                    count += 2;
+                    sumcount += 10;
                 }
             }
             Console.WriteLine($"{count}, {sumcount}");
