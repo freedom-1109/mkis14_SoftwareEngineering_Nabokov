@@ -1,0 +1,6 @@
+C:\Users\freedom\Documents\Downloads\Новая папка\factorial\factorial\bin\Debug\factorial.exe
+C:\Users\freedom\Documents\Downloads\Новая папка\factorial\factorial\bin\Debug\factorial.pdb
+C:\Users\freedom\Documents\Downloads\Новая папка\factorial\factorial\obj\Debug\factorial.csproj.AssemblyReference.cache
+C:\Users\freedom\Documents\Downloads\Новая папка\factorial\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+C:\Users\freedom\Documents\Downloads\Новая папка\factorial\factorial\obj\Debug\factorial.exe
+C:\Users\freedom\Documents\Downloads\Новая папка\factorial\factorial\obj\Debug\factorial.pdb

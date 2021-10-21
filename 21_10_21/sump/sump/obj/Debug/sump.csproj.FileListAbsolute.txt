@@ -1,0 +1,6 @@
+C:\Users\freedom\Documents\Downloads\Новая папка\sump\sump\bin\Debug\sump.exe
+C:\Users\freedom\Documents\Downloads\Новая папка\sump\sump\bin\Debug\sump.pdb
+C:\Users\freedom\Documents\Downloads\Новая папка\sump\sump\obj\Debug\sump.csproj.AssemblyReference.cache
+C:\Users\freedom\Documents\Downloads\Новая папка\sump\sump\obj\Debug\sump.csproj.CoreCompileInputs.cache
+C:\Users\freedom\Documents\Downloads\Новая папка\sump\sump\obj\Debug\sump.exe
+C:\Users\freedom\Documents\Downloads\Новая папка\sump\sump\obj\Debug\sump.pdb

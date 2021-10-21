@@ -1,0 +1,6 @@
+C:\Users\freedom\Documents\Downloads\Новая папка\pares\pares\bin\Debug\pares.exe
+C:\Users\freedom\Documents\Downloads\Новая папка\pares\pares\bin\Debug\pares.pdb
+C:\Users\freedom\Documents\Downloads\Новая папка\pares\pares\obj\Debug\pares.csproj.AssemblyReference.cache
+C:\Users\freedom\Documents\Downloads\Новая папка\pares\pares\obj\Debug\pares.csproj.CoreCompileInputs.cache
+C:\Users\freedom\Documents\Downloads\Новая папка\pares\pares\obj\Debug\pares.exe
+C:\Users\freedom\Documents\Downloads\Новая папка\pares\pares\obj\Debug\pares.pdb
