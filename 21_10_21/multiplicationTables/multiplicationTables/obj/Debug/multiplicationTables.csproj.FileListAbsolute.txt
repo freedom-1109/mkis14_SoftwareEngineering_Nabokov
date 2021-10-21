@@ -1,0 +1,6 @@
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\multiplicationTables\multiplicationTables\bin\Debug\multiplicationTables.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\multiplicationTables\multiplicationTables\bin\Debug\multiplicationTables.pdb
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\multiplicationTables\multiplicationTables\obj\Debug\multiplicationTables.csproj.AssemblyReference.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\multiplicationTables\multiplicationTables\obj\Debug\multiplicationTables.csproj.CoreCompileInputs.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\multiplicationTables\multiplicationTables\obj\Debug\multiplicationTables.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\multiplicationTables\multiplicationTables\obj\Debug\multiplicationTables.pdb
