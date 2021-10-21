@@ -4,6 +4,9 @@ namespace pares
 {
     internal class Program
     {
+        /*
+         * Посчитать количество и сумму парных чисел в диапазоне от 1 до N.
+         */
         public static void Main(string[] args)
         {
             int count = 0, sumcount = 0;
