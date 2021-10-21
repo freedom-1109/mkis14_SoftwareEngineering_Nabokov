@@ -4,3 +4,9 @@ C:\Users\freedom\Documents\Downloads\Новая папка\factorial\factorial\o
 C:\Users\freedom\Documents\Downloads\Новая папка\factorial\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
 C:\Users\freedom\Documents\Downloads\Новая папка\factorial\factorial\obj\Debug\factorial.exe
 C:\Users\freedom\Documents\Downloads\Новая папка\factorial\factorial\obj\Debug\factorial.pdb
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\factorial\factorial\bin\Debug\factorial.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\factorial\factorial\bin\Debug\factorial.pdb
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\factorial\factorial\obj\Debug\factorial.csproj.AssemblyReference.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\factorial\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\factorial\factorial\obj\Debug\factorial.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\21_10_21\factorial\factorial\obj\Debug\factorial.pdb

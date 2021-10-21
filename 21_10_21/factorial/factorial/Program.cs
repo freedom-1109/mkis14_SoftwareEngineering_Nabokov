@@ -4,6 +4,9 @@ namespace factorial
 {
     internal class Program
     {
+        /*
+         * Вычислить факториал числа p(при p > 0), используя цикл do while.
+         */
         public static void Main(string[] args)
         {
             int result;
@@ -11,20 +14,13 @@ namespace factorial
             {
                 Console.WriteLine("не число, попробуй еще раз");
             }
-
-            var ansver = (result < 0) ? result : fact(result);
-            Console.WriteLine(ansver);
-        }
-
-        private static int fact(int N)
-        {
-            var x = 1;
-            for (var i = 1; i <= N; i++)
+            
+            int i = 1, x = 1;
+            do
             {
-                x *= i;
-            }
-
-            return x;
+                x *= i++;
+            } while (i <= result);
+            Console.WriteLine(x);
         }
     }
 }
