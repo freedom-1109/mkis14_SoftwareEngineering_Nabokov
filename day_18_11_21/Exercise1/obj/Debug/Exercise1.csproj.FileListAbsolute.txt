@@ -1,0 +1,7 @@
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\day_18_11_21\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\day_18_11_21\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\day_18_11_21\Exercise1\obj\Debug\Exercise1.csproj.AssemblyReference.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\day_18_11_21\Exercise1\obj\Debug\Exercise1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\day_18_11_21\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\day_18_11_21\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\nnabo\Documents\Software engineering\mkis14_SoftwareEngineering_Nabokov\day_18_11_21\Exercise1\obj\Debug\Exercise1.pdb
