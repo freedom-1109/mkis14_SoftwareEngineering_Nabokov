@@ -10,13 +10,17 @@ namespace Exercise1
          */
         public static void Main(string[] args)
         {
-            bool f = true;
             string s = Console.ReadLine()?.ToLower().Replace(" ", "");
-            for (int i = 0; i < s.Length/2; i++)
-                if (s[i] != s[s.Length - 1 - i])
+
+            Console.WriteLine(IsPalindrome(s)?"YES":"NO");
+        }
+        private static bool IsPalindrome(string str)
+        {
+            bool f = true;
+            for (int i = 0; i < str.Length/2; i++)
+                if (str[i] != str[str.Length - 1 - i])
                     f = false;
-            
-            Console.WriteLine(f?"YES":"NO");
+            return f;
         }
     }
 }
