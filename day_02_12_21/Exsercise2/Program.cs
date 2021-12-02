@@ -4,7 +4,13 @@ namespace Exercise2
 {
     internal class Program
     {
-        // задание 1
+        /* задание 2
+         * 
+         * Необходимо переделать предыдущую задачу,
+         * теперь функция периметр должна возвращать целое значение.
+         * Напомним задание: Вводятся три числа — длины трех сторон треугольника.
+         * Создайте функцию Perimeter(), которая вычисляет периметр треугольника по длинам трех его сторон.
+         */
         private static void Main(string[] args)
         {
             var sides = Array.ConvertAll(Console.ReadLine().Split(), Convert.ToInt32);
