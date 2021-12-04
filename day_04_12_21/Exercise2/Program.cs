@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Exercise2
 {
@@ -7,20 +9,23 @@ namespace Exercise2
         public static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            Console.WriteLine($"{n} {new string('+', Deliteli(n))}");
-            
-        }
-
-        public static int Deliteli(int n)
-        {
-            int count = 0;
             for (int i = 1; i <= n; i++)
             {
-                if (n % i == 0)
-                    count++;
+                Console.WriteLine($"{i}{new string('+', Deliteli(i))}");
             }
-
-            return count;
         }
+
+        private static int Deliteli(int n)
+        {
+            return Inumbs(1, n + 1).Count(i => n % i == 0);
+        }
+
+        private static IEnumerable<int> Inumbs(int start, int stop)
+        {
+            for (int i = start; i < stop; i++)
+            {
+                yield return i;
+            }
+        } 
     }
 }
