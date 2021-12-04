@@ -1,0 +1,6 @@
+C:\Users\nnabo\Documents\GitHub\mkis14_SoftwareEngineering_Nabokov\day_04_12_21\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\nnabo\Documents\GitHub\mkis14_SoftwareEngineering_Nabokov\day_04_12_21\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\nnabo\Documents\GitHub\mkis14_SoftwareEngineering_Nabokov\day_04_12_21\Exercise4\obj\Debug\Exercise4.csprojAssemblyReference.cache
+C:\Users\nnabo\Documents\GitHub\mkis14_SoftwareEngineering_Nabokov\day_04_12_21\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\nnabo\Documents\GitHub\mkis14_SoftwareEngineering_Nabokov\day_04_12_21\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\nnabo\Documents\GitHub\mkis14_SoftwareEngineering_Nabokov\day_04_12_21\Exercise4\obj\Debug\Exercise4.pdb
