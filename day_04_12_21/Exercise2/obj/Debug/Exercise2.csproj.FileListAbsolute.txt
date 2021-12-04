@@ -1,0 +1,6 @@
+C:\Users\nnabo\Download\test\day_04_12_21\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\nnabo\Download\test\day_04_12_21\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\nnabo\Download\test\day_04_12_21\Exercise2\obj\Debug\Exercise2.csprojAssemblyReference.cache
+C:\Users\nnabo\Download\test\day_04_12_21\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\nnabo\Download\test\day_04_12_21\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\nnabo\Download\test\day_04_12_21\Exercise2\obj\Debug\Exercise2.pdb
