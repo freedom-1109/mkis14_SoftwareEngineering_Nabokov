@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Exercise3
 {
@@ -8,20 +9,13 @@ namespace Exercise3
         {
             for (int i = 0; i <= 300; i++)
             {
-                Console.Write(Deliteli(i) == 5 ? $"{i}\n" : "");
+                Console.Write(Deliteli(i) == 5 ? $"{i} " : "");
             }
         }
 
         public static int Deliteli(int n)
         {
-            int count = 0;
-            for (int i = 1; i <= n; i++)
-            {
-                if (n % i == 0)
-                    count++;
-            }
-
-            return count;
+            return Enumerable.Range(1, n).Count(i => n % i == 0);
         }
     }
 }

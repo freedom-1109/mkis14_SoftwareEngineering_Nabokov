@@ -8,9 +8,7 @@ namespace Exercise4
         public static void Main(string[] args)
         {
             Random rnd = new Random();
-            var M = new int[100];
-            for (int i = 0; i < M.Length; i++)
-                M[i] = rnd.Next(-1000, 1000);
+            var M = Enumerable.Range(1, 100).Select(i => rnd.Next(-1000, 1000)).ToArray();
 
             Console.WriteLine(M.Count(i => 0 < i && i < 125));
         }

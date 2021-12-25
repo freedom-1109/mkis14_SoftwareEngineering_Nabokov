@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Exercise1
 {
@@ -8,20 +9,13 @@ namespace Exercise1
         {
             for (int i = 120; i < 140 + 1; i++)
             {
-                Console.WriteLine($"{i}\tимеет\t{Deliteli(i)}\tделителей");
+                Console.WriteLine($"{i} имеет {Deliteli(i)} делителей");
             }
         }
 
-        public static int Deliteli(int n)
+        private static int Deliteli(int n)
         {
-            int count = 0;
-            for (int i = 1; i <= n; i++)
-            {
-                if (n % i == 0)
-                    count++;
-            }
-
-            return count;
+            return Enumerable.Range(1, n).Count(i => n % i == 0);
         }
     }
 }

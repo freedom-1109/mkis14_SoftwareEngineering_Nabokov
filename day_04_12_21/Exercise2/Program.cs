@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 
 namespace Exercise2
@@ -17,15 +16,7 @@ namespace Exercise2
 
         private static int Deliteli(int n)
         {
-            return Inumbs(1, n + 1).Count(i => n % i == 0);
-        }
-
-        private static IEnumerable<int> Inumbs(int start, int stop)
-        {
-            for (int i = start; i < stop; i++)
-            {
-                yield return i;
-            }
+            return Enumerable.Range(1, n).Count(i => n % i == 0);
         } 
     }
 }
